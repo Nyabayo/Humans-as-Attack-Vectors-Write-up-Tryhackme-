@@ -89,4 +89,4 @@ In this room, you explored how attackers exploit human vulnerabilities. As a SOC
 
 ### Important Links:
 - **TryHackMe Humans Attack Vectors Room**: [Humans Attack Vectors](https://tryhackme.com/room/humansattackvectors)
-- **GitHub Repository**: [humansattackvectors-soc-writeup](Insert your GitHub Repository Link here)
+
